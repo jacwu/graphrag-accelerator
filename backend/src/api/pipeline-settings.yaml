@@ -37,7 +37,7 @@ llm:
   deployment_name: $GRAPHRAG_LLM_DEPLOYMENT_NAME
   cognitive_services_endpoint: $GRAPHRAG_COGNITIVE_SERVICES_ENDPOINT
   model_supports_json: True
-  tokens_per_minute: 80000
+  tokens_per_minute: 900000
   requests_per_minute: 480
   thread_count: 50
   concurrent_requests: 25
