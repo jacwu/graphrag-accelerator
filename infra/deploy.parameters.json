@@ -6,5 +6,5 @@
   "GRAPHRAG_LLM_DEPLOYMENT_NAME": "gpt-4-turbo",
   "GRAPHRAG_LLM_MODEL": "gpt-4",
   "LOCATION": "eastus2",
-  "RESOURCE_GROUP": "graphragtest0729-rg"
+  "RESOURCE_GROUP": "graphragtest0802-rg"
 }
